@@ -1,4 +1,4 @@
-# System Prompts for Book Publishers
+# System Prompts for Proofreading And Book Publication Assistants
 
 ![alt text](banner.png)
 
