@@ -1,0 +1,24 @@
+{
+  "original_reference": {
+    "text": "string",
+    "url": "string",
+    "context": "string"
+  },
+  "replacement_sources": [
+    {
+      "url": "string",
+      "title": "string",
+      "publisher": "string",
+      "publication_date": "YYYY-MM-DD",
+      "relevance_score": 0.95,
+      "excerpt": "string",
+      "credibility_assessment": "high/medium/low"
+    }
+  ],
+  "recommendation": {
+    "best_replacement": 0,
+    "suggested_citation": "string",
+    "notes": "string",
+    "is_newer_information_available": true
+  }
+}

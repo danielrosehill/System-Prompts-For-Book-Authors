@@ -1,0 +1,22 @@
+{
+  "identified_statistics": [
+    {
+      "original_text": "string",
+      "statistic_value": "string",
+      "is_outdated": true,
+      "updates": {
+        "updated_stat": "string",
+        "explanation": "string",
+        "source": "string",
+        "source_url": "string",
+        "notes": "string"
+      }
+    }
+  ],
+  "summary": {
+    "total_statistics_identified": 0,
+    "outdated_count": 0,
+    "current_count": 0,
+    "unable_to_verify_count": 0
+  }
+}

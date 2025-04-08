@@ -1,0 +1,37 @@
+{
+  "currency_pairs": [
+    {
+      "type": "conversion_needed",
+      "from_currency": "string",
+      "to_currency": "string",
+      "instances": [
+        {
+          "original_text": "string",
+          "page_number": 0,
+          "surrounding_context": "string",
+          "value": "string"
+        }
+      ]
+    },
+    {
+      "type": "conversion_provided",
+      "from_currency": "string",
+      "to_currency": "string",
+      "instances": [
+        {
+          "original_text": "string",
+          "page_number": 0,
+          "surrounding_context": "string",
+          "from_value": "string",
+          "to_value": "string"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_currency_mentions": 0,
+    "currencies_found": ["string"],
+    "conversion_needed_count": 0,
+    "conversion_provided_count": 0
+  }
+}

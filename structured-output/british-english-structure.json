@@ -1,0 +1,23 @@
+{
+  "deviations": [
+    {
+      "occurrence_order": 1,
+      "search_snippet": "string",
+      "surrounding_text": "string",
+      "identified_word": "string",
+      "british_english_replacement": "string",
+      "frequency": 1
+    }
+  ],
+  "summary": {
+    "total_deviations": 0,
+    "most_common_deviations": [
+      {
+        "american_english": "string",
+        "british_english": "string",
+        "count": 0
+      }
+    ],
+    "recommendation": "string"
+  }
+}
